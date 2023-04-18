@@ -3,7 +3,7 @@
 **Como instalar:**
 
 - Abre seu config da sua base e adicione `ensure conti_arsenal`.
-- Coloque as imgagens do seu htdocs.
+- Coloque as imagens do seu htdocs.
 
 **Observações:**
 
