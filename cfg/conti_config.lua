@@ -20,10 +20,10 @@ Config.armas = { -- Armas do arsenal | nome = Nome da arma | Arma = Spawn da arm
     {nome= 'Carabine 2', arma= 'WEAPON_SPECIALCARBINE_MK2', municao= 250, permissao='policia.permissao', index='especial-carabine'},
 }
 
-Config.kit = { -- Kit básico | arna = Spawn da arma | index = Nome da imagem da arma | Quantidade = quantidade que vai receber
-    {arma= 'WEAPON_FLASHLIGHT',index = 'flash', quantidade = 1},
-    {arma= 'WEAPON_NIGHTSTICK',index = 'Cassetete ', quantidade = 1},
-    {arma= 'WEAPON_STUNGUN',index = 'Tazer ', quantidade = 1},
+Config.kit = { -- Kit básico | arna = Spawn da arma  | Quantidade = quantidade que vai receber
+    {arma= 'WEAPON_FLASHLIGHT', quantidade = 1},
+    {arma= 'WEAPON_NIGHTSTICK', quantidade = 1},
+    {arma= 'WEAPON_STUNGUN', quantidade = 1},
 }
 
 
