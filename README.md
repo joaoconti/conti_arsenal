@@ -9,8 +9,8 @@
 
 - Não tem dependencias.
 - Já vem configurado.
-- Discord: https://discord.gg/9cM3vrreTA
 - Plug and Play
+- Discord: https://discord.gg/9cM3vrreTA
 
 Framework: vrpex
 
